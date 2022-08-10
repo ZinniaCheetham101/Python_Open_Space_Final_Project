@@ -3,7 +3,7 @@ This project was performed in Python to analyze Open Space data in New Jersey.
 New Jersey is the most densely populated state in the United States and is predicted to be the first to be fully developed.
 As a result, the state must be proactive in conserving land for people, wildlife, and as a public resource.
 
-Visualizations were created in Tableau and the final results were presented via Storyboard
+Visualizations were created in Tableau. The analysis and final results were presented via Storyboard
 To view my Storyboard visit: https://public.tableau.com/app/profile/zinnia.cheetham/viz/Open_Space_In_NJ_Final_Project_ZMC/FinalStoryboard?publish=yes
 
 Data sources:
