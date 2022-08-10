@@ -12,7 +12,6 @@ NJDEP: https://gisdata-njdep.opendata.arcgis.com/datasets/njdep::state-local-and
 Rutgers University: https://search.njdatabook.rutgers.edu/municipal/data 
 
 Newark Open Data: https://data.ci.newark.nj.us/dataset/new-jersey-counties-polygon/resource/95db8cad-3a8c-41a4-b8b1-4991990f07f3 
-![image](https://user-images.githubusercontent.com/103681262/184042072-dfab3627-0e9d-4d76-ae83-5dad110f1e57.png)
 
 This project did not utilize a time-series dataset. However, this dataset from Quandl was utilized for this assignment:
 https://data.nasdaq.com/data/EIA-us-energy-information-administration-data
